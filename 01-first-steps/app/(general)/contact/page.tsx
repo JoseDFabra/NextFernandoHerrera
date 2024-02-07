@@ -3,7 +3,7 @@ import React from 'react';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'SEO Title',
+  title: 'Contact Page',
   description: 'SEO Description para contact page',
 };
 
